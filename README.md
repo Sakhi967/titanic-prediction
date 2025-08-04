@@ -22,4 +22,4 @@ Data used in this project comes from the [Kaggle Titanic Competition](https://ww
 
 ## ▶️ Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshi967/titanic/blob/main/Titanic_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshi967/titanic-prediction/blob/main/Titanic_Prediction.ipynb)
